@@ -1,0 +1,26 @@
+{
+  "version": "2.6.0",
+  "summary": {
+    "title": "Resort Threat Model",
+    "owner": "",
+    "description": "The system is a privacy-focused resort platform that manages guest identities, bookings, surveillance data, and AI-based facial recognition. It includes multiple databases for identity, pseudonymized data, and media, as well as an external identity provider for authentication.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.0",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
